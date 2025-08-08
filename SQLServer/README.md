@@ -20,7 +20,8 @@ Todo esto fue trabajado en **SQL Server**, con normalización de tablas y creaci
 
 A continuación se muestra el diagrama entidad-relación del proyecto, que representa cómo se conectan las diferentes tablas.
 
-![Modelo ER](../informe/Grafico.png)
+<img width="2048" height="1336" alt="Grafico" src="https://github.com/user-attachments/assets/628d4dd8-bc66-4a60-9fe0-a36fd3e1d755" />
+
 
 ---
 
@@ -28,15 +29,7 @@ A continuación se muestra el diagrama entidad-relación del proyecto, que repre
 
 En este Excel se definieron los campos, tipos de datos y claves primarias/foráneas de cada tabla.
 
-![Estructura de Tablas](../informe/Tablas.png)
-
----
-
-## 📊 Datos de Ejemplo
-
-Ejemplo de los datos cargados en la tabla `Personal`, incluyendo columnas como `student_faculty_ratio`, `international_students`, `faculty_count`, etc.
-
-![Datos tabla Personal](../informe/Imagen%20uno.png)
+<img width="1090" height="823" alt="Tablas" src="https://github.com/user-attachments/assets/177162dd-4f13-4215-9b57-6888994579b7" />
 
 ---
 
@@ -44,7 +37,17 @@ Ejemplo de los datos cargados en la tabla `Personal`, incluyendo columnas como `
 
 Vista general del dataset original utilizado para alimentar las tablas.
 
-![Vista del Dataset](../informe/Imagen%202.png)
+<img width="2048" height="1280" alt="Imagen uno" src="https://github.com/user-attachments/assets/f511404d-06a8-47f2-8344-0598757b9248" />
+
+
+---
+
+## 📋 Dataset Mas limpio
+
+Despues de realizar algunas alteraciones en SQL
+
+<img width="2048" height="1280" alt="Imagen 2" src="https://github.com/user-attachments/assets/b9c70037-5dfb-4fac-9b83-5a8129f72df9" />
+
 
 ---
 
