@@ -1,4 +1,4 @@
-📊 Dashboard Power BI – Alumnos y Rankings Universitarios
+# 📊 Dashboard Power BI – Alumnos y Rankings Universitarios
 
 📌 Descripción General
 Este proyecto es un modelo interactivo en Power BI que permite visualizar y analizar datos de universidades, enfocándose en dos ejes principales:
