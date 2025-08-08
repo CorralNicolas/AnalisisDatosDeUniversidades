@@ -1,5 +1,0 @@
-linguist:
-  language: Python, SQL
-  detect:
-    - Python
-    - SQL
