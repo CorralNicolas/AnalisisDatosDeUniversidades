@@ -4,6 +4,8 @@ Proyecto final del curso de Data Analytics de Coderhouse, realizado en equipo po
 
 <img width="1404" height="726" alt="Screenshot 2025-08-07 221429" src="https://github.com/user-attachments/assets/281fa2f4-a302-46cf-ae93-11601acb47bc" />
 
+  <img width="1391" height="724" alt="image" src="https://github.com/user-attachments/assets/2f1cd205-b779-4338-aedf-3da8f207f0df" />
+
 📅 **Fecha de entrega:** Noviembre 2022  
 
 ## 🧠 Objetivo
@@ -27,8 +29,6 @@ El dashboard en Power BI incluye:
 - Evolución de ratios y cantidades de estudiantes desde 2018 hasta 2022.
 
   <img width="1162" height="628" alt="image" src="https://github.com/user-attachments/assets/169c76ed-c063-4e90-bf9f-5c4907570fb6" />
-  <img width="1391" height="724" alt="image" src="https://github.com/user-attachments/assets/2f1cd205-b779-4338-aedf-3da8f207f0df" />
-
 
 
 ## 🔍 Variables analizadas
